@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: megaDNA
+Version: 1.0
+Summary: MegaDNA: a long-context generative model of bacteriophage genome
+Home-page: https://github.com/lingxusb/megaDNA
+Author: Bin Shao, Jiawei Yan
+Author-email: shaobinlx@gmail.com
+License: CC BY-NC 4.0
+Platform: UNKNOWN
+Requires-Python: >=3.8
+
+UNKNOWN
+

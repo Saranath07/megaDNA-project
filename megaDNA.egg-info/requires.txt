@@ -1,6 +1,0 @@
-MEGABYTE_pytorch==0.2.1
-beartype
-einops
-numpy
-torch
-tqdm

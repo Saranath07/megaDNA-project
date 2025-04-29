@@ -1,3 +1,0 @@
-[console_scripts]
-megadna = megaDNA.cli:main
-

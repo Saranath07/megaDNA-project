@@ -1,0 +1,11 @@
+README.md
+setup.py
+megaDNA/__init__.py
+megaDNA/cli.py
+megaDNA/megadna.py
+megaDNA.egg-info/PKG-INFO
+megaDNA.egg-info/SOURCES.txt
+megaDNA.egg-info/dependency_links.txt
+megaDNA.egg-info/entry_points.txt
+megaDNA.egg-info/requires.txt
+megaDNA.egg-info/top_level.txt
